@@ -1,0 +1,27 @@
+body {
+  background-color: rgb(224, 225, 221);
+}
+h1 {
+  text-align: center;
+  color: rgb(119, 141, 169);
+  background-color: rgb(65, 90, 119);
+}
+h2 {
+  text-align: left;
+  color: rgb(119, 141, 169);
+  background-color: rgb(65, 90, 119);
+}
+
+footer {
+  color: rgb(13, 27, 42);
+  background-color: rgb(65, 90, 119);
+}
+nav div {
+  text-align: right;
+  background-color: rgb(65, 90, 119);
+  color: rgb(224, 225, 221);
+}
+nav {
+  background-color: rgb(65, 90, 119);
+  color: rgb(224, 225, 221);
+}
